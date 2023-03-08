@@ -8,9 +8,11 @@
 
 
 2. Setelah itu lakukan :
+
 ```cd Si_Pajar```
 
 ```npm install```
 
 3. kemudian running project nya :
+
 ```npm start```
